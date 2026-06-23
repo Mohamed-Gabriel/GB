@@ -1,0 +1,104 @@
+2026-05-15 01:28:53,439  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-05-15 01:29:03,512  ERROR     gateway — SSH error: timed out
+2026-05-15 01:29:37,353  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-05-15 01:29:47,368  ERROR     gateway — SSH error: timed out
+2026-05-15 02:43:10,218  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-05-15 02:43:20,246  ERROR     gateway — SSH error: timed out
+2026-05-20 22:29:43,672  INFO      gateway — SSH pool closed — app shutdown
+2026-05-20 22:30:13,412  INFO      gateway — SSH pool closed — app shutdown
+2026-05-20 22:30:16,902  INFO      gateway — SSH pool closed — app shutdown
+2026-05-20 22:30:22,398  INFO      gateway — SSH pool closed — app shutdown
+2026-05-20 22:30:47,892  INFO      gateway — SSH pool closed — app shutdown
+2026-05-20 22:31:22,093  INFO      gateway — SSH pool closed — app shutdown
+2026-05-20 22:31:28,934  INFO      gateway — SSH pool closed — app shutdown
+2026-05-20 22:33:18,269  INFO      gateway — SSH pool closed — app shutdown
+2026-05-20 22:36:05,891  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-05-20 22:36:06,389  INFO      paramiko.transport — Connected (version 2.0, client OpenSSH_9.7)
+2026-05-20 22:36:06,553  INFO      paramiko.transport — Authentication (password) successful!
+2026-05-20 22:36:06,554  INFO      ssh_pool — SSH connection established to pfSense
+2026-05-20 22:36:22,042  INFO      gateway — /devices → 7 devices found
+2026-05-20 22:36:28,690  INFO      gateway — /alerts → 0 alerts returned (limit=50, severity=None)
+2026-05-20 22:40:47,781  INFO      gateway — /stats → devices=6, alerts=0, blocked=0
+2026-05-20 22:42:07,543  INFO      gateway — /blocked-ips → 0 entries
+2026-05-20 22:42:30,621  WARNING   gateway — BLOCKED 1.2.3.4
+2026-05-20 22:42:31,548  WARNING   gateway — BLOCKED 1.2.3.4
+2026-05-20 23:17:38,527  INFO      gateway — SSH pool closed — app shutdown
+2026-05-20 23:18:37,886  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-05-20 23:18:37,953  INFO      paramiko.transport — Connected (version 2.0, client OpenSSH_9.7)
+2026-05-20 23:18:38,097  INFO      paramiko.transport — Authentication (password) successful!
+2026-05-20 23:18:38,098  INFO      ssh_pool — SSH connection established to pfSense
+2026-05-21 00:04:04,007  ERROR     paramiko.transport — Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2026-06-22 08:01:04,345  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-06-22 08:01:05,129  INFO      paramiko.transport — Connected (version 2.0, client OpenSSH_9.4)
+2026-06-22 08:01:05,346  INFO      paramiko.transport — Authentication (password) successful!
+2026-06-22 08:01:05,347  INFO      ssh_pool — SSH connection established to pfSense
+2026-06-22 08:01:49,989  INFO      gateway — /devices → 5 devices found
+2026-06-22 08:02:12,959  INFO      gateway — /alerts → 0 alerts returned (limit=50, severity=None)
+2026-06-22 08:02:26,751  INFO      gateway — /stats → devices=5, alerts=0, blocked=1
+2026-06-22 08:05:26,126  INFO      gateway — SSH pool closed — app shutdown
+2026-06-22 08:05:54,603  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-06-22 08:05:54,642  INFO      paramiko.transport — Connected (version 2.0, client OpenSSH_9.4)
+2026-06-22 08:05:54,852  INFO      paramiko.transport — Authentication (password) successful!
+2026-06-22 08:05:54,852  INFO      ssh_pool — SSH connection established to pfSense
+2026-06-22 08:05:54,927  INFO      gateway — /devices → 4 devices found
+2026-06-22 09:05:29,316  INFO      gateway — SSH pool closed — app shutdown
+2026-06-22 12:02:34,776  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-06-22 12:02:34,989  INFO      paramiko.transport — Connected (version 2.0, client OpenSSH_9.4)
+2026-06-22 12:02:35,167  INFO      paramiko.transport — Authentication (password) successful!
+2026-06-22 12:02:35,168  INFO      ssh_pool — SSH connection established to pfSense
+2026-06-22 13:02:03,758  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-06-22 13:02:03,899  INFO      paramiko.transport — Connected (version 2.0, client OpenSSH_9.4)
+2026-06-22 13:02:04,044  INFO      paramiko.transport — Authentication (password) successful!
+2026-06-22 13:02:04,045  INFO      ssh_pool — SSH connection established to pfSense
+2026-06-22 13:02:13,594  INFO      gateway — /devices → 3 devices found
+2026-06-22 13:02:29,581  INFO      gateway — /alerts → 0 alerts returned (limit=50, severity=None)
+2026-06-22 13:02:42,555  INFO      gateway — /stats → devices=4, alerts=0, blocked=1
+2026-06-22 13:05:47,954  INFO      gateway — /alerts → 0 alerts returned (limit=100, severity=None)
+2026-06-22 13:05:47,985  INFO      gateway — /devices → 3 devices found
+2026-06-22 13:05:48,040  INFO      gateway — /stats → devices=4, alerts=0, blocked=1
+2026-06-22 13:05:48,061  INFO      gateway — /blocked-ips → 1 entries
+2026-06-22 13:32:28,563  INFO      gateway — /devices → 3 devices found
+2026-06-22 13:32:28,585  INFO      gateway — /alerts → 0 alerts returned (limit=100, severity=None)
+2026-06-22 13:32:28,609  INFO      gateway — /stats → devices=4, alerts=0, blocked=1
+2026-06-22 13:32:28,794  INFO      gateway — /blocked-ips → 1 entries
+2026-06-23 12:57:30,748  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-06-23 12:57:31,790  INFO      paramiko.transport — Connected (version 2.0, client OpenSSH_9.4)
+2026-06-23 12:57:31,998  INFO      paramiko.transport — Authentication (password) successful!
+2026-06-23 12:57:31,998  INFO      ssh_pool — SSH connection established to pfSense
+2026-06-23 12:57:32,085  INFO      gateway — /alerts → 0 alerts returned (limit=100, severity=None)
+2026-06-23 12:57:32,107  INFO      gateway — /devices → 2 devices found
+2026-06-23 12:57:32,143  INFO      gateway — /stats → devices=3, alerts=0, blocked=1
+2026-06-23 12:57:32,151  INFO      gateway — /blocked-ips → 1 entries
+2026-06-23 13:11:07,492  INFO      gateway — /stats → devices=3, alerts=0, blocked=1
+2026-06-23 13:11:07,520  INFO      gateway — /devices → 2 devices found
+2026-06-23 13:11:07,554  INFO      gateway — /alerts → 0 alerts returned (limit=100, severity=None)
+2026-06-23 13:11:08,034  INFO      gateway — /blocked-ips → 1 entries
+2026-06-23 13:11:32,381  WARNING   gateway — BLOCKED 192.168.10.1
+2026-06-23 13:11:41,775  WARNING   gateway — BLOCKED 192.168.10.5
+2026-06-23 13:19:02,477  INFO      gateway — /stats → devices=3, alerts=0, blocked=3
+2026-06-23 13:19:02,497  INFO      gateway — /devices → 2 devices found
+2026-06-23 13:19:02,526  INFO      gateway — /alerts → 0 alerts returned (limit=100, severity=None)
+2026-06-23 13:19:03,682  INFO      gateway — /blocked-ips → 3 entries
+2026-06-23 13:19:09,981  WARNING   gateway — UNBLOCKED 192.168.10.1
+2026-06-23 13:19:11,012  WARNING   gateway — UNBLOCKED 192.168.10.5
+2026-06-23 13:19:20,949  INFO      gateway — /devices → 2 devices found
+2026-06-23 13:19:20,969  INFO      gateway — /alerts → 0 alerts returned (limit=100, severity=None)
+2026-06-23 13:19:20,980  INFO      gateway — /stats → devices=3, alerts=0, blocked=1
+2026-06-23 13:19:20,994  INFO      gateway — /blocked-ips → 1 entries
+2026-06-23 13:19:26,528  WARNING   gateway — BLOCKED 192.168.10.1
+2026-06-23 13:19:28,686  WARNING   gateway — BLOCKED 192.168.10.5
+2026-06-23 13:19:33,014  INFO      gateway — /devices → 2 devices found
+2026-06-23 13:19:33,044  INFO      gateway — /alerts → 0 alerts returned (limit=100, severity=None)
+2026-06-23 13:19:33,061  INFO      gateway — /stats → devices=3, alerts=0, blocked=3
+2026-06-23 13:19:33,070  INFO      gateway — /blocked-ips → 3 entries
+2026-06-23 13:49:11,193  ERROR     paramiko.transport — Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2026-06-23 14:18:30,433  INFO      ssh_pool — SSH connection not active — reconnecting...
+2026-06-23 14:18:30,496  INFO      paramiko.transport — Connected (version 2.0, client OpenSSH_9.4)
+2026-06-23 14:18:30,726  INFO      paramiko.transport — Authentication (password) successful!
+2026-06-23 14:18:30,726  INFO      ssh_pool — SSH connection established to pfSense
+2026-06-23 14:18:30,828  INFO      gateway — /devices → 3 devices found
+2026-06-23 14:18:30,849  INFO      gateway — /alerts → 0 alerts returned (limit=100, severity=None)
+2026-06-23 14:18:30,896  INFO      gateway — /stats → devices=4, alerts=0, blocked=1
+2026-06-23 14:18:32,163  INFO      gateway — /blocked-ips → 1 entries
+2026-06-23 14:19:35,522  ERROR     paramiko.transport — Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2026-06-23 17:19:49,503  INFO      gateway — SSH pool closed — app shutdown
